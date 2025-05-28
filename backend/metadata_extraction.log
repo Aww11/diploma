@@ -1,0 +1,57 @@
+2025-05-06 02:12:14,139 - metadata-extractor - INFO - Файл загружен: Asymmetric_Response_to_Global_Warming.pdf, сохранен как 3968aeed-c979-4bda-8cc7-69b5578dad61.pdf
+2025-05-06 02:12:14,142 - metadata-extractor - INFO - Извлечение текста из PDF: uploads\3968aeed-c979-4bda-8cc7-69b5578dad61.pdf
+2025-05-06 02:12:24,090 - metadata-extractor - INFO - Успешно извлечено 28749 символов из PDF
+2025-05-06 02:12:24,091 - metadata-extractor - INFO - Отправка запроса в OpenAI API
+2025-05-06 02:12:25,659 - openai - INFO - error_code=unsupported_country_region_territory error_message='Country, region, or territory not supported' error_param=None error_type=request_forbidden message='OpenAI API error received' stream_error=False
+2025-05-06 02:12:25,660 - metadata-extractor - ERROR - Ошибка при извлечении метаданных с помощью OpenAI: Country, region, or territory not supported
+2025-05-06 02:12:25,668 - metadata-extractor - INFO - Возвращаем кэшированные метаданные для файла 3968aeed-c979-4bda-8cc7-69b5578dad61
+2025-05-06 02:12:25,720 - metadata-extractor - INFO - Возвращаем данные для проверки файла 3968aeed-c979-4bda-8cc7-69b5578dad61
+2025-05-06 02:12:58,523 - metadata-extractor - INFO - Файл загружен: Asymmetric_Response_to_Global_Warming.pdf, сохранен как b1c991ff-7784-4c38-a47b-072076bc6ad6.pdf
+2025-05-06 02:12:58,524 - metadata-extractor - INFO - Извлечение текста из PDF: uploads\b1c991ff-7784-4c38-a47b-072076bc6ad6.pdf
+2025-05-06 02:12:58,712 - metadata-extractor - INFO - Успешно извлечено 28749 символов из PDF
+2025-05-06 02:12:58,713 - metadata-extractor - INFO - Отправка запроса в OpenAI API
+2025-05-06 02:12:59,254 - openai - INFO - error_code=unsupported_country_region_territory error_message='Country, region, or territory not supported' error_param=None error_type=request_forbidden message='OpenAI API error received' stream_error=False
+2025-05-06 02:12:59,254 - metadata-extractor - ERROR - Ошибка при извлечении метаданных с помощью OpenAI: Country, region, or territory not supported
+2025-05-06 02:12:59,277 - metadata-extractor - INFO - Возвращаем кэшированные метаданные для файла b1c991ff-7784-4c38-a47b-072076bc6ad6
+2025-05-06 02:12:59,339 - metadata-extractor - INFO - Возвращаем данные для проверки файла b1c991ff-7784-4c38-a47b-072076bc6ad6
+2025-05-08 20:41:07,898 - metadata-extractor - INFO - Файл загружен: Asymmetric_Response_to_Global_Warming.pdf, сохранен как 9ee4bde6-6f53-447b-a984-84431cd286b4.pdf
+2025-05-08 20:41:07,931 - metadata-extractor - INFO - Извлечение текста из PDF: uploads\9ee4bde6-6f53-447b-a984-84431cd286b4.pdf
+2025-05-08 20:41:10,447 - metadata-extractor - INFO - Успешно извлечено 28749 символов из PDF
+2025-05-08 20:41:10,448 - metadata-extractor - INFO - Отправка запроса в OpenAI API
+2025-05-08 20:41:12,711 - openai - INFO - error_code=model_not_found error_message='The model `gpt-4` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-05-08 20:41:12,714 - metadata-extractor - ERROR - Ошибка при извлечении метаданных с помощью OpenAI: The model `gpt-4` does not exist or you do not have access to it.
+2025-05-08 20:41:12,722 - metadata-extractor - INFO - Возвращаем кэшированные метаданные для файла 9ee4bde6-6f53-447b-a984-84431cd286b4
+2025-05-08 20:41:12,733 - metadata-extractor - INFO - Возвращаем данные для проверки файла 9ee4bde6-6f53-447b-a984-84431cd286b4
+2025-05-08 20:55:46,475 - metadata-extractor - INFO - Файл загружен: Asymmetric_Response_to_Global_Warming.pdf, сохранен как fab6365d-9403-4834-b697-f521de7272f2.pdf
+2025-05-08 20:55:46,477 - metadata-extractor - INFO - Извлечение текста из PDF: uploads\fab6365d-9403-4834-b697-f521de7272f2.pdf
+2025-05-08 20:55:51,721 - metadata-extractor - INFO - Успешно извлечено 28749 символов из PDF
+2025-05-08 20:55:51,722 - metadata-extractor - INFO - Отправка запроса в OpenAI API
+2025-05-08 20:55:54,322 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-05-08 20:55:54,323 - metadata-extractor - ERROR - Ошибка при извлечении метаданных с помощью OpenAI: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-05-08 20:55:54,347 - metadata-extractor - INFO - Возвращаем кэшированные метаданные для файла fab6365d-9403-4834-b697-f521de7272f2
+2025-05-08 20:55:54,361 - metadata-extractor - INFO - Возвращаем данные для проверки файла fab6365d-9403-4834-b697-f521de7272f2
+2025-05-09 00:04:41,438 - metadata-extractor - INFO - Файл загружен: рефик.pdf, сохранен как 2902bf17-00e4-4bc0-8573-8a33e67bfdd0.pdf
+2025-05-09 00:04:41,755 - metadata-extractor - INFO - Извлечение текста из PDF: uploads\2902bf17-00e4-4bc0-8573-8a33e67bfdd0.pdf
+2025-05-09 00:04:46,094 - metadata-extractor - INFO - Успешно извлечено 32558 символов из PDF
+2025-05-09 00:04:46,095 - metadata-extractor - INFO - Отправка запроса в OpenAI API
+2025-05-09 00:04:49,375 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-05-09 00:04:49,377 - metadata-extractor - ERROR - Ошибка при извлечении метаданных с помощью OpenAI: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-05-09 00:04:49,406 - metadata-extractor - INFO - Возвращаем кэшированные метаданные для файла 2902bf17-00e4-4bc0-8573-8a33e67bfdd0
+2025-05-09 00:04:49,533 - metadata-extractor - INFO - Возвращаем данные для проверки файла 2902bf17-00e4-4bc0-8573-8a33e67bfdd0
+2025-05-09 00:16:25,433 - metadata-extractor - INFO - Файл загружен: s10032-015-0249-8.pdf, сохранен как 7289a336-dd2b-4c37-8890-106306a73c73.pdf
+2025-05-09 00:16:25,434 - metadata-extractor - INFO - Извлечение текста из PDF: uploads\7289a336-dd2b-4c37-8890-106306a73c73.pdf
+2025-05-09 00:16:25,951 - metadata-extractor - INFO - Успешно извлечено 77566 символов из PDF
+2025-05-09 00:16:25,953 - metadata-extractor - INFO - Отправка запроса в OpenAI API
+2025-05-09 00:16:25,954 - metadata-extractor - INFO - Текст слишком длинный (77566 символов), обрезаем до 40000
+2025-05-09 00:16:27,095 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-05-09 00:16:27,097 - metadata-extractor - ERROR - Ошибка при извлечении метаданных с помощью OpenAI: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-05-09 00:16:27,132 - metadata-extractor - INFO - Возвращаем кэшированные метаданные для файла 7289a336-dd2b-4c37-8890-106306a73c73
+2025-05-09 00:16:27,143 - metadata-extractor - INFO - Возвращаем данные для проверки файла 7289a336-dd2b-4c37-8890-106306a73c73
+2025-05-19 15:11:59,500 - metadata-extractor - INFO - Файл загружен: Asymmetric_Response_to_Global_Warming.pdf, сохранен как dd0b3b54-3db5-4c52-babd-77e508eb0f87.pdf
+2025-05-19 15:11:59,558 - metadata-extractor - INFO - Извлечение текста из PDF: uploads\dd0b3b54-3db5-4c52-babd-77e508eb0f87.pdf
+2025-05-19 15:12:04,866 - metadata-extractor - INFO - Успешно извлечено 28749 символов из PDF
+2025-05-19 15:12:04,867 - metadata-extractor - INFO - Отправка запроса в OpenAI API
+2025-05-19 15:12:08,183 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-05-19 15:12:08,184 - metadata-extractor - ERROR - Ошибка при извлечении метаданных с помощью OpenAI: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-05-19 15:12:08,225 - metadata-extractor - INFO - Возвращаем кэшированные метаданные для файла dd0b3b54-3db5-4c52-babd-77e508eb0f87
+2025-05-19 15:12:08,294 - metadata-extractor - INFO - Возвращаем данные для проверки файла dd0b3b54-3db5-4c52-babd-77e508eb0f87
